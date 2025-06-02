@@ -17,4 +17,4 @@ In this repository, you’ll find:
 
 This repo is a personal log of my Web3 learning journey — from writing basic contracts to tackling more complex use cases on-chain.
 
-Let’s BUIDL! 🚀
+Let’s BUILD! 🚀
