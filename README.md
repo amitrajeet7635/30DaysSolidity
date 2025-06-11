@@ -15,6 +15,6 @@ In this repository, you’ll find:
   * My thought process and solution approach.
   * Key learnings from the challenge.
 
-This repo is a personal log of my Web3 learning journey — from writing basic contracts to tackling more complex use cases on-chain. But I would really appreciate if you feel that the code written can be more gas optimised in better way then please do so, that would be really appreciated.
+This repo is a personal log of my Web3 learning journey — from writing basic contracts to tackling more complex use cases on-chain. However, I would really appreciate it if you feel that the code written can be more gas-optimized in a better way; then please do so, that would be greatly appreciated.
 
 Let’s BUIDL! 🚀
